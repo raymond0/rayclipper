@@ -8,3 +8,10 @@ To compile, make sure you have C++11 enabled, e.g. g++ -std=c++11 rayclipper.cpp
 Input polygons do not need to have a closed path (i.e. first and last coordinates do not need to match).
 
 The input is the polygon you want to clip and the rectangle you want to clip it to. The output is a set of one or more polygons, which are clipped to the rectangle.
+
+Here are some sample inputs and outputs:
+
+<img width="1091" alt="clipper1" src="https://cloud.githubusercontent.com/assets/1854581/21275928/1a767600-c39d-11e6-9536-75699360fa42.png">
+<img width="1012" alt="clipper2" src="https://cloud.githubusercontent.com/assets/1854581/21275930/1a7c9aa8-c39d-11e6-9e75-df0540e36308.png">
+<img width="1003" alt="clipper3" src="https://cloud.githubusercontent.com/assets/1854581/21275929/1a7c75e6-c39d-11e6-979f-38c7675d9827.png">
+<img width="1004" alt="clipper4" src="https://cloud.githubusercontent.com/assets/1854581/21275931/1a8024b6-c39d-11e6-8485-1f4cc9560baf.png">
