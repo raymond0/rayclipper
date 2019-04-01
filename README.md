@@ -15,3 +15,10 @@ Here are some sample inputs and outputs:
 <img width="1012" alt="clipper2" src="https://cloud.githubusercontent.com/assets/1854581/21275930/1a7c9aa8-c39d-11e6-9e75-df0540e36308.png">
 <img width="1003" alt="clipper3" src="https://cloud.githubusercontent.com/assets/1854581/21275929/1a7c75e6-c39d-11e6-979f-38c7675d9827.png">
 <img width="1004" alt="clipper4" src="https://cloud.githubusercontent.com/assets/1854581/21275931/1a8024b6-c39d-11e6-8485-1f4cc9560baf.png">
+<img width="882" alt="clipper5" src="https://user-images.githubusercontent.com/1854581/55344572-f8b1fb80-54ad-11e9-94f1-00c95fa47b1f.png">
+<img width="882" alt="clipper6" src="https://user-images.githubusercontent.com/1854581/55344586-02d3fa00-54ae-11e9-9c77-4386462c0e14.png">
+<img width="882" alt="clipper7" src="https://user-images.githubusercontent.com/1854581/55344598-0c5d6200-54ae-11e9-88dc-40da41e471a3.png">
+<img width="882" alt="clipper8" src="https://user-images.githubusercontent.com/1854581/55344603-11221600-54ae-11e9-91c9-2bc8750904ef.png">
+<img width="882" alt="clipper9" src="https://user-images.githubusercontent.com/1854581/55344607-154e3380-54ae-11e9-9a8c-4666c695f331.png">
+<img width="882" alt="clipper10" src="https://user-images.githubusercontent.com/1854581/55344614-18492400-54ae-11e9-97fc-0824fd14bff5.png">
+
